@@ -39,7 +39,11 @@ UK wherein only a few questions were asked of the population. The fields recorde
 - To provide insights based on the data into what services should be invested in.
 
 ## The Various Data preprocessing and visualizations done can be found on the Jupyter file and project report.
-Click here to see the jupyter notebook: https://github.com/giftomoba/Population-Census-Project/blob/main/Census%20project.ipynb
+
+Link to the jupyter notebook: https://github.com/giftomoba/Population-Census-Project/blob/main/Census%20project.ipynb
+
+Link to the project report: https://github.com/giftomoba/Population-Census-Project/blob/main/Census%20project%20report.pdf
+
 
 ## RECOMMENDATIONS:
 Coupled with the estimated number of commuters currently living in the town, there seem to be a good number 
